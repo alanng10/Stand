@@ -63,3 +63,5 @@ Stand Safe has Opto and Mary choose safe.
 Stand Safe has Life partner choose safe.
 
 Stand Safe has un hostile.
+
+Stand Safe has gain share can gone.
