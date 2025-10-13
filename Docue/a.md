@@ -57,3 +57,5 @@ Stand has major.
 Stand has benefit.
 
 Stand benefit has Safe, Sure, Ease.
+
+Stand Safe has Opto and Mary choose safe.
