@@ -53,3 +53,7 @@ Stand has park mark.
 Stand has park cross.
 
 Stand has major.
+
+Stand has benefit.
+
+Stand benefit has Safe, Sure, Ease.
