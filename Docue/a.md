@@ -58,6 +58,8 @@ Stand has benefit.
 
 Stand benefit has Safe, Sure, Ease.
 
+Stand Safe has body choose safe.
+
 Stand Safe has Opto and Mary choose safe.
 
 Stand Safe has Life partner choose safe.
